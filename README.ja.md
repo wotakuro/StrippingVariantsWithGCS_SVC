@@ -1,4 +1,4 @@
-# StrippingByVariantCollection
+# StrippingVariantsWithGCS_SVC
 
 プロジェクト内にあるShaderVariantCollection及びGraphicsStateCollectionを探してきて、登録されていないVariantをビルドから除外します。<br />
 メニューの「UTJ/ShaderVariantStrip」の設定ウィンドウを変更することが出来ます。<br />
