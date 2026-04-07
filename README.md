@@ -1,4 +1,4 @@
-# StrippingByVariantCollection
+# StrippingVariantsWithGCS_SVC
 [日本語はコチラ](README.ja.md)
 
 Find the ShaderVariantCollection and GraphicsStateCollection in the project and exclude unregistered variants from the build.
